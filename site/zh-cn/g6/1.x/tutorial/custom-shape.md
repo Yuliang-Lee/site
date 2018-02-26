@@ -507,7 +507,7 @@ net.render();
 
 #### 简单示例
 
-![image](/assets/image/g6/other/htmlnode.png)
+![image](/assets/image/g6/06-other/htmlnode.png)
 
 [示例源码](../demo/other/htmlnode.html)
 
